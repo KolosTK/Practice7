@@ -1,4 +1,4 @@
-enum StudentStatus {
+export enum StudentStatus {
     Active,
     Academic_Leave,
     Graduated,

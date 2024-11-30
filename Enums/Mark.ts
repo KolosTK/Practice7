@@ -1,4 +1,4 @@
-enum Grade {
+export enum Mark {
     Excellent = 5, 
     Good = 4,
     Satisfactory = 3,

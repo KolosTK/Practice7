@@ -1,4 +1,4 @@
-enum Faculty{
+export enum Faculty{
     Computer_Science, 
     Economics, 
     Law, 

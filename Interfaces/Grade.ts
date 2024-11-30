@@ -1,7 +1,9 @@
-interface Grade {
+import { Semester } from "../enums/Semester";
+import { Mark } from "../enums/Mark";
+export interface Grade {
     studentId: number;
     courseId: number;
-    grade: Grade;
+    grade: Mark;
     date: Date;
     semester: Semester;
 }

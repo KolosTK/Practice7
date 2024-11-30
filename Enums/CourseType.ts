@@ -1,4 +1,4 @@
-enum CourseType{
+export enum CourseType{
     Mandatory,
     Optional,
     Special

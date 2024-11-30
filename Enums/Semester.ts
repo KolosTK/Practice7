@@ -1,4 +1,4 @@
-enum Semester{
+export enum Semester{
     First,
     Second
 }
